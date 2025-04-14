@@ -1,1 +1,2 @@
-# mochila
+# Mochila Fraccionaria
+El algoritmo de la mochila fraccionaria es un problema de optimización combinatoria, se busca la mejor solución entre un conjunto finito de posibles soluciones. Modela una situación análoga al llenar una mochila, incapaz de soportar más de un peso determinado, con todo o parte de un conjunto de objetos, cada uno con un peso y valor específicos. Los objetos colocados en la mochila deben maximizar el valor total sin exceder el peso máximo.  
